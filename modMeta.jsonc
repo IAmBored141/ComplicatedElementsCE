@@ -1,6 +1,6 @@
 {
   "mod_id": "complicated_elements_ce",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "mod_page_url": "",
   "dll": "ComplicatedElementsCE.dll",
   "authors": ["Alucia", "IAmBored"],
