@@ -1,0 +1,14 @@
+{
+  "mod_id": "complicated_elements_ce",
+  "version": "0.0.1",
+  "mod_page_url": "",
+  "dll": "ComplicatedElementsCE.dll",
+  "authors": ["Alucia", "IAmBored"],
+  "icon": "textures/complicated_elements_ce/ce_icon",
+  "mappings": "",
+  "dependencies": {
+    "quintessential_core": "[0.7.0,)",
+    "quintessential_data": "[0.7.0,)"
+  },
+  "conflicts": []
+}

@@ -1,0 +1,51 @@
+{
+  "complicated_elements_ce": {
+    "": "Complicated Elements (CE)",
+    "description": "A port of Complicated Elements to Community Edition. CECE, if you will.",
+    "atoms": {
+      "aerolith": {
+        "": "Aerolith",
+        "elemental": "Elemental Aerolith"
+      },
+      "ignistal": {
+        "": "Ignistal",
+        "elemental": "Elemental Ignistal"
+      },
+      "mistaline": {
+        "": "Mistaline",
+        "elemental": "Elemental Mistaline"
+      },
+      "pyrolite": {
+        "": "Pyrolite",
+        "elemental": "Elemental Pyrolite"
+      },
+      "terramarine": {
+        "": "Terramarine",
+        "elemental": "Elemental Terramarine"
+      },
+      "vaprorine": {
+        "": "Vaprorine",
+        "elemental": "Elemental Vaprorine"
+      },
+      "quicklime": {
+        "": "Quicklime (CE)",
+        "elemental": "Elemental Quicklime (CE)"
+      }
+    },
+    "parts": {
+      "fusion": {
+        "": "Glyph of Fusion",
+        "description": "The Glyph of Fusion combines two cardinals into a crytalline, or two opposing crystallines into quintessence."
+      },
+      "erosion": {
+        "": "Glyph of Erosion",
+        "description": "The Glyph of Erosion erodes a crystalline into Quicklime, similar to the Glyph of Calcification."
+      }
+    },
+    "permission_sections": "Complicated Elements",
+    "permissions": {
+      "fusion": "Glyph of Fusion",
+      "erosion": "Glyph of Erosion"
+    }
+  }
+}
