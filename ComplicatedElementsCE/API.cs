@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ComplicatedElementsCE;
 
-internal static class API
+public static class API
 {
     public struct CrystallizationRecipe //literally copy pasted from original
     {

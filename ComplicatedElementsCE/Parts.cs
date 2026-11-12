@@ -31,8 +31,8 @@ internal class Parts
             isFullHexCover = true,
             glowTexture = Assets.textures.select.double_glow,
             strokeTexture = Assets.textures.select.double_stroke,
-            baseTexture = FusionIcon,
-            hoverTexture = FusionIconHover,
+            iconTexture = FusionIcon,
+            iconHoverTexture = FusionIconHover,
             glyphHexes = new HexIndex[] { FusionBowl, FusionHole },
             permissionCategory = PuzzlePermissions.None,
             CustomPermissionCheck = perms => perms.Contains(ComplicatedElementsCE.Instance.GetIdentifier("fusion"))
@@ -49,8 +49,8 @@ internal class Parts
             isFullHexCover = true,
             glowTexture = Assets.textures.select.single_glow,
             strokeTexture = Assets.textures.select.single_stroke,
-            baseTexture = ErosionIcon,
-            hoverTexture = ErosionIconHover,
+            iconTexture = ErosionIcon,
+            iconHoverTexture = ErosionIconHover,
             glyphHexes = new HexIndex[] { ErosionHex },
             permissionCategory = PuzzlePermissions.None,
             CustomPermissionCheck = perms => perms.Contains(ComplicatedElementsCE.Instance.GetIdentifier("erosion"))
